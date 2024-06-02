@@ -7,3 +7,4 @@ myFunction();
 function myFunction(){
     console.log("Hey I am frontend developer RR");
 }
+myFunction();

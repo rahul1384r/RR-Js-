@@ -6,7 +6,7 @@
 
 
 
-// returning tha value from the function
+// // returning tha value from the function
 function myFunction(a,b){
     var sum=a+b;
     return sum;
